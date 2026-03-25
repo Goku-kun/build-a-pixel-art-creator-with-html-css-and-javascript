@@ -4,6 +4,8 @@ Learn to build a browser-based pixel art editor using HTML Canvas, 2D arrays, an
 
 **Prerequisites:** HTML, CSS, JavaScript fundamentals
 
+**[Live Demo](https://goku-kun.github.io/build-a-pixel-art-creator-with-html-css-and-javascript/completed/)**
+
 ## Features
 
 - **Pen tool** — Click and drag to draw pixels in any color
